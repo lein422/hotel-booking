@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+*.log
+*.tmp
+data/hotel_test.json
+logs/
+data/hotel_backup.json
